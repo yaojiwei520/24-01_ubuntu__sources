@@ -65,5 +65,6 @@ EOL
 # 更新软件包信息
 echo "配置完成，更新软件包信息..."
 sudo apt update
+sudo apt upgrde -y
 
 echo "操作完成！"
